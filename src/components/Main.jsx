@@ -11,11 +11,8 @@ export default function Main() {
       </section>
 
       <aside>
-        <section>
-          <div>
+          <h2>Favourite photos</h2>
             <Gallery />
-          </div>
-        </section>
       </aside>
 
     </main>
