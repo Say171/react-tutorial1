@@ -1,4 +1,4 @@
-import Gallery from "./Gallery";
+import Aside from "./Aside";
 
 export default function Main() {
   return (
@@ -10,10 +10,7 @@ export default function Main() {
         <p>So don't waste time! Get what you need, then turn off that computer and get out into the great outdoors!</p>
       </section>
 
-      <aside>
-          <h2>Favourite photos</h2>
-            <Gallery />
-      </aside>
+      <Aside />
 
     </main>
   );
